@@ -1,6 +1,4 @@
-# Mohammed Junaid
-
-<h1 align="left">Hey! I'm Junaid 👋</h1>
+# Hey! I'm Junaid 👋
 
 <p>My name is Mohammed Junaid, I am a 17-year-old IT student and aspiring digital creator, passionate about crafting digital graphics and designs. Checkout my work<a href="">Portfolio</a></p>
 
